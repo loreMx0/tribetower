@@ -1,7 +1,7 @@
 # tribetower
 Do you like high halls? Yup.Do you like Coral Tower? YES!. Why not experience them both.
 
-
+![waves](libs/tribe_tower.png)
 # TribeTower Waves
 
 A BepInEx plugin for **Hollow Knight: Silksong (mobile port)** that lets you
