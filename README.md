@@ -51,7 +51,7 @@ are rebuilt from scratch, enemy by enemy, using the positions you specify.
 | Platform | Path |
 |----------|------|
 | Android  | `/storage/emulated/0/Android/data/<pkg>/files/BepInEx/config/com.btw.tribetower.waves.cfg` |
-| Desktop  | `<game folder>/BepInEx/config/com.btw.tribetower.waves.cfg` |
+| Desktop  | `not available` |
 
 The file is regenerated with defaults if you delete it. Save it as UTF-8.
 
